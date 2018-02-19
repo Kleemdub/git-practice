@@ -1,0 +1,3 @@
+Name : Clem
+Age : 39
+Favorite Color : Red
